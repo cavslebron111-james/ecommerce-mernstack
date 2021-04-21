@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
+    "dependencies": {
     "@ant-design/icons": "^4.0.6",
     "@material-ui/core": "^4.9.13",
     "@material-ui/icons": "^4.9.1",
